@@ -755,7 +755,7 @@ This project demonstrates practical experience with:
 * Dimensional modeling
 * Data warehouse concepts
 
----
+--
 
 # 🚀 Project Status
 
