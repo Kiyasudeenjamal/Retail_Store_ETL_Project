@@ -778,7 +778,7 @@ This project demonstrates practical experience with:
 | Monitoring               | 🔄 Planned     |
 | Power BI                 | 🔄 Planned     |
 
----
+--
 
 # 💡 Future Enhancements
 
